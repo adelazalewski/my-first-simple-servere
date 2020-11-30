@@ -15,7 +15,7 @@
 //     // start watching for connections on the port specified
 //     console.log(`Server running at http://${hostname}:${port}/`);
 // });
-//EXPRESS
+//EXPRESS server code
 const express = require('express');
 const port = 5000;
 const server = express();
